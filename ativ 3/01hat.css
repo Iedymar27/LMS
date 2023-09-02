@@ -1,0 +1,100 @@
+.looks {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+div.relative_hat {
+    position: relative;
+    width: 240px;
+    height: 180px;
+    left: 160px;
+    top: 220px;
+    border: 0px solid black;
+}
+
+div.absolute_hat1 {
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    background-color: #ed1c24;
+}
+div.absolute_hat2 {
+    position: absolute;
+    top: 0px;
+    left: 80px;
+    background-color: #ed1c24;
+}
+div.absolute_hat3 {
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    background-color: #ed1c24;
+}
+div.absolute_hat4 {
+    position: absolute;
+    top: 0px;
+    left: 120px;
+    background-color: #ed1c24;
+}
+div.absolute_hat5 {
+    position: absolute;
+    top: 0px;
+    left: 140px;
+    background-color: #ed1c24;
+}
+div.absolute_hat6 {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    background-color: #ed1c24;
+}
+div.absolute_hat7 {
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    background-color: #ed1c24;
+}
+div.absolute_hat8 {
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    background-color: #ed1c24;
+}
+div.absolute_hat9 {
+    position: absolute;
+    top: 20px;
+    left: 100px;
+    background-color: #ed1c24;
+}
+div.absolute_hat10 {
+    position: absolute;
+    top: 20px;
+    left: 120px;
+    background-color: #ed1c24;
+}
+div.absolute_hat11 {
+    position: absolute;
+    top: 20px;
+    left: 140px;
+    background-color: #ed1c24;
+}
+div.absolute_hat12 {
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    background-color: #ed1c24;
+}
+div.absolute_hat13 {
+    position: absolute;
+    top: 20px;
+    left: 180px;
+    background-color: #ed1c24;
+}
+div.absolute_hat14 {
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    background-color: #ed1c24;
+}
